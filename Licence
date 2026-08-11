@@ -1,0 +1,61 @@
+# Corex Public Site License (CPSL) v1.1
+
+**Copyright © 2026 Corex Institut. Tous droits réservés.**
+
+En utilisant ce site ou son code source, vous acceptez les conditions suivantes.
+
+## 1. Utilisation du site
+Vous êtes autorisé à utiliser librement les services proposés sur ce site, dans le respect des lois en vigueur et des présentes conditions.
+
+## 2. Utilisation du code source
+Le code source de ce projet peut être utilisé, étudié, modifié et redistribué, y compris dans des projets dérivés (forks), à condition de respecter l'ensemble des conditions de cette licence.
+
+## 3. Attribution obligatoire
+Toute personne utilisant tout ou partie du code source, que ce soit dans sa version originale ou modifiée, doit obligatoirement :
+
+- conserver les mentions de copyright présentes dans le code lorsqu'elles existent ;
+- mentionner clairement que le projet est basé sur un fork ou une modification du projet original, si c'est le cas ;
+- indiquer le nom de l'entreprise d'origine : **Corex Institut** ;
+- indiquer le nom de l'auteur original ;
+- fournir un lien visible vers le site officiel du projet : **https://corexinstitut.netlify.app**.
+
+Ces informations doivent être visibles dans la documentation, le dépôt du projet ou tout autre emplacement raisonnablement accessible aux utilisateurs.
+
+## 4. Interdiction de se faire passer pour l'auteur
+Il est strictement interdit de :
+
+- prétendre être l'auteur original de tout ou partie du code ;
+- supprimer ou modifier les informations permettant d'identifier l'auteur original afin d'induire les utilisateurs en erreur ;
+- présenter le projet original comme étant entièrement de votre création.
+
+Vous êtes autorisé à indiquer que vous avez réalisé un **fork**, une **version modifiée** ou une **adaptation**, à condition de préciser clairement que vous n'êtes pas l'auteur du projet original.
+
+## 5. Modifications
+Vous êtes libre de modifier le code source.
+
+Toutefois, les modifications que vous apportez restent clairement distinctes du projet original et ne doivent pas laisser croire qu'elles proviennent de l'auteur original.
+
+## 6. Utilisation du contenu
+Sauf indication contraire, les textes, images, logos et autres contenus présents sur le site restent protégés par le droit d'auteur et ne sont pas concernés par l'autorisation accordée pour le code source.
+
+## 7. Aucune garantie
+Le projet est fourni « en l'état », sans aucune garantie, explicite ou implicite. L'auteur ne pourra être tenu responsable des dommages directs ou indirects liés à son utilisation.
+
+## 8. Évolutions
+Cette licence peut être modifiée à tout moment. La version publiée sur le site officiel fait foi.
+
+---
+
+## Résumé
+
+- ✅ Utilisation du code source autorisée.
+- ✅ Modification du code autorisée.
+- ✅ Redistribution du code autorisée.
+- ✅ Création de forks autorisée.
+- ❌ Utilisation dans des projets personnels ou commerciaux autorisée.
+- ✅ Obligation de mentionner **Corex Institut**.
+- ✅ Obligation d'indiquer le nom de l'auteur original.
+- ✅ Obligation d'ajouter un lien vers **https://corexinstitut.netlify.app**.
+- ✅ Obligation d'indiquer lorsqu'il s'agit d'un fork ou d'une version modifiée.
+- ❌ Interdiction de se faire passer pour l'auteur original.
+- ❌ Interdiction de supprimer les informations d'attribution destinées à tromper les utilisateurs.
